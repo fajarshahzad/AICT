@@ -1,0 +1,61 @@
+<!DOCTPYE html>
+<html>
+    <title>Task2.html</title>
+    <body>
+        <table bgcolor="grey"width="1500" height="5">
+            <tr><th align="left">contact@gmail.com&nbsp;&nbsp;&nbsp;&nbsp; Contactno.3984829</th></tr>
+            <tr><th><img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVtEzvHHM-0C_hhInxuyN7JGNGoks7C21tg&usqp=CAU" width="200"height="30"</th></tr>
+    
+        </table>
+        <table border="0" width="1500">
+            <tr><th><h2 style="color:chartreuse">GREEN</h2></th>
+            <th>
+                <p align="right">
+                    Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    About&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Portfolio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Dropdown&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Contact&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Get Start&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                </p>
+            </th></tr>
+        </table>
+        <table background="https://i.natgeofe.com/n/3fd7ce0a-b829-452d-9c3a-32c27feb3450/04-citylights-prod-yourshot-1544923-11431795_square.jpg"width="1500" height="300">
+            <thead>  <td> <center><h1 style="color:aliceblue">Welcome to Green</h1></center> </td></thead>
+         <td colspan="4"><center style="color:aliceblue"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, adipisci. Accusamus quam autem, officia dignissimos hic natus nam beatae rerum veniam corrupti sunt incidunt culpa deserunt eius atque explicabo asperiores!<br></center> 
+       <center style="color:aliceblue">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur facilis iusto error earum assumenda impedit ipsa, deserunt sed ducimus rem, voluptates eius iste aperiam consequatur suscipit alias recusandae, hic dolor! </center></td>
+       <tfoot><td><center style="color:aliceblue">Read me.</center></td></tfoot>
+        </table>
+        <table border="0" width="1500">
+            <tr>
+                <th>
+                    <b>Lorem Ipsum</b>
+                </th>
+                <th>
+                    <b>Doloremque </b>
+                </th>
+                <th>
+                    <b>Sed ut Perspiciats</b>
+                </th>
+        </tr>
+        <tr>
+            <td>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque placeat itaque fuga quaerat corporis necessitatibus culpa voluptate animi rerum dolorem, explicabo dignissimos assumenda aperiam officia accusamus aliquam possimus, voluptatem consequatur.
+            </td>
+            <td>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente sint dolor laborum impedit voluptatum quidem, distinctio voluptatem cumque quos minus tempore sunt, harum illum doloribus esse illo, consequuntur facilis quibusdam!
+            </td>
+            <td>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla assumenda corrupti nostrum nisi ex porro dicta dignissimos molestiae perferendis alias laborum ullam aspernatur quibusdam expedita, repudiandae, quo enim, vitae dolorem?
+            </td>
+        </tr>
+    
+            
+        </table>
+
+
+    </body>
+</html>
